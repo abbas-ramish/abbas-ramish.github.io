@@ -1,6 +1,5 @@
 ---
 layout: home
-title: Ramish Dev
 ---
 
 Welcome to my blog 🚀
